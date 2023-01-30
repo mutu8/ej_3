@@ -23,6 +23,8 @@ namespace ej_3
             else
                 Console.WriteLine("La frase NO ES un palíndromo");
         }
+        
+        // asdasd
 
         /// <summary>
         /// Valida si una frase es palíndromo
